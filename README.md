@@ -44,7 +44,7 @@ A few features:
 ## 1. Clone and Install
 ```bash
 # Clone the repo
-git clone https://github.com/gaykov/minimal-quotes.git
+git clone https://github.com/insiderdev/qrcode.git
 
 # Install dependencies
 yarn install
